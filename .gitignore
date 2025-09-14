@@ -1,0 +1,4 @@
+#useful when we don't want venv folder to be committed in the git repo
+
+venv
+.env
